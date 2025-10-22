@@ -92,7 +92,7 @@ AWS-VPC-Project/
 - Configure security groups minimally
 - Test network connectivity
 
-## 🎉 Output Link with Screenshot:
+## 🎉 Output Link with Screenshots:
 - https://docs.google.com/document/d/1Cxjr3lIjgPrMuDAdlIli_zPIno5bC7jFYfwV3wyxYSA/edit?usp=drive_link
 
 ---
